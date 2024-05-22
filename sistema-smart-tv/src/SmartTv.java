@@ -2,11 +2,12 @@ public class SmartTv {
     boolean ligada = false;
     int canal = 1;
     int volume = 25;
+    // variveis de nivel classe 
 
 
     public void mudarCanal(int novoCanal){
         canal =  novoCanal;
-        
+        // novoCanal disponivel apenas nesse método
     }
     public void aumentarCanal(){
         canal++;
@@ -31,7 +32,6 @@ public class SmartTv {
     public void desligar(){
         ligada = false;
     }
-
 
 
 }
