@@ -6,10 +6,24 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "BreakContinue",
             "request": "launch",
             "mainClass": "BreakContinue",
             "projectName": "controle-fluxo_a40f46a0"
+=======
+            "name": "ExemploFor",
+            "request": "launch",
+            "mainClass": "ExemploFor",
+            "projectName": "controle-fluxo_2ca9a2ca"
+        },
+        {
+            "type": "java",
+            "name": "PlanoOperadora",
+            "request": "launch",
+            "mainClass": "PlanoOperadora",
+            "projectName": "controle-fluxo_2ca9a2ca"
+>>>>>>> 2b7ffc8caa0506d522d2a9eff89e94b0b2529680
         },
         {
             "type": "java",
