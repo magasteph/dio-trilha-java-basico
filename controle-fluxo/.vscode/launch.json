@@ -6,6 +6,7 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "ExemploForArray",
             "request": "launch",
             "mainClass": "ExemploForArray",
@@ -13,6 +14,14 @@
         },
         {
             "type": "java",
+=======
+<<<<<<< HEAD
+            "name": "BreakContinue",
+            "request": "launch",
+            "mainClass": "BreakContinue",
+            "projectName": "controle-fluxo_a40f46a0"
+=======
+>>>>>>> 4f9dc0c6cba54cf807668776cb8949e1af00dca8
             "name": "ExemploFor",
             "request": "launch",
             "mainClass": "ExemploFor",
@@ -24,6 +33,7 @@
             "request": "launch",
             "mainClass": "PlanoOperadora",
             "projectName": "controle-fluxo_2ca9a2ca"
+>>>>>>> 2b7ffc8caa0506d522d2a9eff89e94b0b2529680
         },
         {
             "type": "java",

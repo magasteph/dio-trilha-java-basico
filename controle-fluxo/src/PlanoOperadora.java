@@ -1,4 +1,12 @@
 public class PlanoOperadora {
+<<<<<<< HEAD
+    public static void main(String[] args) {
+        String plano = "M";
+
+        if(plano == "B"){
+            
+        }
+=======
 
     public static void main(String[] args) {
 
@@ -15,5 +23,6 @@ public class PlanoOperadora {
             default:
                 break;
         }        
+>>>>>>> 2b7ffc8caa0506d522d2a9eff89e94b0b2529680
     }
 }
