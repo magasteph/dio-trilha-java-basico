@@ -11,9 +11,9 @@ public class Main {
     }
     static void b(){
         System.out.println("Entrou no metodo b");
-        for(int i = 0; i<= 4; i++){
-            System.out.println(i);
-        }
+        for(int i = 0; i<= 4; i++) 
+        System.out.println(i);
+        
         c();
         System.out.println("Finalizou o metodo b");
     }
