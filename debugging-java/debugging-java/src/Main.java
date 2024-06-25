@@ -19,6 +19,7 @@ public class Main {
     }
     static void c(){
         System.out.println("Entrou no metodo c");
+        Thread.dumpStack();
         System.out.println("Finalizou o metodo c");
     }
 }
