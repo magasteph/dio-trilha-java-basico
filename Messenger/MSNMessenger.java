@@ -1,14 +1,18 @@
 public class MSNMessenger{
+
     public void enviarMensagem(){
+        //encapsulamento
+        validarConectadoInternet();
         System.out.println("Enviando Mensagem");
+        salvarHistoricoMensagem();
     }
     public void receberMensagem(){
         System.out.println("Recebendo mensagem");
     }
-    public void validarConectadoInternet(){
+    private void validarConectadoInternet(){
         System.out.println("Validando se está conectada a Internet");
     }
-    public void salvarHistoricoMensagem(){
+    private void salvarHistoricoMensagem(){
         System.out.println("Salvando o historico da mensagem");
     }
 }
