@@ -1,4 +1,6 @@
-public class Iphone implements AparelhoTelefonico, Navegador , Impressora{
+package iphone;
+
+public class Iphone implements AparelhoTelefonico, Navegador, ReprodutorMusical{
     public void ligar(){
         System.out.println("Ligando");
     }
