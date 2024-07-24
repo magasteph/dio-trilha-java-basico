@@ -1,4 +1,4 @@
-package funcoes;
+package iphone.telefonico;
 public interface AparelhoTelefonico{
     public void ligar();
     public void atender();

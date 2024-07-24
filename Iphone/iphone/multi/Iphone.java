@@ -1,4 +1,4 @@
-package iphone;
+package iphone.multi;
 
 public class Iphone implements AparelhoTelefonico, Navegador, ReprodutorMusical{
     public void ligar(){

@@ -1,4 +1,5 @@
-package funcoes;
+package iphone.navegador;
+
 public interface Navegador{
     public void exibirPagina();
     public void adicionarNovaAba();
