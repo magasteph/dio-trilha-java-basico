@@ -1,3 +1,7 @@
-public class Deskjet extends Impressora{
-    
+package equipamentos.impressora;
+
+public class Deskjet implements Impressora{
+    public void imprimir(){
+        System.out.println("Imprimindo");
+    }
 }
